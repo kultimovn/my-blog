@@ -25,7 +25,7 @@ SECRET_KEY = 'm_8^k-+_-32kn$ooff$fv9woc(5y7+xr5e-1(lma-5h3b1&*m9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kultimov.pythonanywhere.com']
 
 
 # Application definition
